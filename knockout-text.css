@@ -16,15 +16,16 @@ body, html {
   .text {
     position: absolute;
     background-color: white;
-    font-size: 10vw;
+    font-size: 36px;
     font-weight: bold;
     font-family: 'Titillium Web';
     text-align: center;
     margin: 0 auto;
-    padding: 20px;
-    width: 40%;
+    padding: 15px;
+    width: 30%;
     top: 25%;
-    left: 30%;
+    left: 25%;
+    right: 25%;
     transform: translate(-5%, -5%);
     mix-blend-mode: screen;
 
